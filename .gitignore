@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/public/.gitkeep
+frontend/src/pages/.gitkeep
+frontend/src/components/.gitkeep
+
+# Python
+backend/app/__pycache__/
+*.pyc
+
+# Env/config
+.env
+
+# OS
+.DS_Store
+
+# Archives
+*.zip
